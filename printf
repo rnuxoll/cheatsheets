@@ -1,0 +1,32 @@
+# print as a decimal integer
+%d
+
+# print as a decimal integer, at least 6 characters wide
+%6d
+
+# print as a floating point
+%f
+
+# print as floating point, at least 6 characters wide
+%6f
+
+# print as floating point, 2 characters after decimal point
+%.2f
+
+# print as floating point, at least 6 wide and 2 after decimal point
+%6.2f
+
+
+### other types ###
+
+# octal
+%o
+
+# hexadecimal
+%x
+
+# character
+%c
+
+# character string
+%s
